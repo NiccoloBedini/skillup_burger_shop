@@ -39,14 +39,14 @@
     }
 
     > button {
-      background-color: $red;
+      background-color: #3b71ca;
       border: none;
       cursor: pointer;
       color: white;
       font-size: 1rem;
 
       &:hover {
-        background-color: $reddark;
+        background-color: #3265b9;
       }
     }
   }

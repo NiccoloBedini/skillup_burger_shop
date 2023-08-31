@@ -20,7 +20,7 @@ const Profile = () => {
       <main>
         <motion.img src={me} alt="User" {...options} />
         <motion.h5 {...options} transition={{ delay: 0.3 }}>
-          Nelson
+          Niccolò
         </motion.h5>
       
         <motion.div

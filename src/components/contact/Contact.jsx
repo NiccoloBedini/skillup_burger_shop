@@ -27,7 +27,7 @@ const Contact = () => {
         <Popup trigger={<button type="button">Send</button>}>
           <div
             style={{
-              color: "red",
+              color: "#3265b9",
               transform: "translate(25%,-700%)",
               backgroundColor: "#fff",
               padding: "10px",

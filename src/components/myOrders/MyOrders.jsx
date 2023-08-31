@@ -21,12 +21,12 @@ const MyOrders = () => {
           </thead>
 
           <tbody>
-            // Add the code for the table body
+            
             {arr.map((i) => (
               <tr key={i}>
-                <td>#sdkfsdfdsf</td>
+                <td>#123456789</td>
                 <td>Processing</td>
-                <td>23</td>
+                <td>2</td>
                 <td>₹{2132}</td>
                 <td>COD</td>
                 <td>

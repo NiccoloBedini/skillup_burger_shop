@@ -91,6 +91,7 @@ const OrderDetails = () => {
             <h4
               style={{
                 fontWeight: 800,
+                color: "#3b71ca",
               }}
             >
               Sub Total
@@ -98,6 +99,7 @@ const OrderDetails = () => {
             <div
               style={{
                 fontWeight: 800,
+                color: "#3b71ca",
               }}
             >
               ₹{2132}

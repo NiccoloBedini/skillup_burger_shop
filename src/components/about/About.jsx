@@ -2,7 +2,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { RiFindReplaceLine } from "react-icons/ri";
-import me from "../../assets/skj.jpg";
+import me from "../../assets/user_owner.png";
 
 const About = () => {
   return (
@@ -28,10 +28,10 @@ const About = () => {
           <article>
             <div>
               <img src={me} alt="Founder" />
-              <h3>Nelson</h3>
+              <h3>Niccolò</h3>
             </div>
             <p>
-              I am Nelson, the founder of Burger Shop. Affiliated to God
+              I am Niccolò, the founder of Burger Shop. Affiliated to God
               Taste...
             </p>
           </article>

@@ -1,5 +1,6 @@
 @import "colors";
 
+//little style adjustament
 .home {
   height: 100vh;
   overflow-x: hidden;
@@ -10,18 +11,21 @@
     > h1 {
       font-size: 4rem;
       text-transform: uppercase;
+      color: #9c003c;
     }
 
     > p {
       font-size: 1.2rem;
+      
     }
   }
 
+  //little style adjustament
   > a {
     display: block;
     margin: 2rem 8rem;
     width: 10rem;
-    background-color: $red;
+    background-color: #3b71ca;
     color: white;
     text-align: center;
     border: none;
@@ -30,7 +34,8 @@
     padding: 1rem;
     cursor: pointer;
     &:hover {
-      background-color: $reddark;
+      background-color: #3265b9;
+      color:white;
     }
   }
 

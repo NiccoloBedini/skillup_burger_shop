@@ -13,8 +13,9 @@
     > h1 {
       text-transform: uppercase;
       text-align: center;
-      font: 100 3rem "Roboto";
+      font: 400 3rem "Roboto";
       margin: 3rem;
+      color:$red;
     }
 
     > div {
@@ -24,6 +25,8 @@
         font-size: 1.8rem;
         text-transform: uppercase;
         letter-spacing: 5px;
+        color:#3b71ca;
+        
       }
 
       > p {
@@ -43,6 +46,7 @@
         text-transform: uppercase;
         letter-spacing: 5px;
         margin: 2rem 0;
+        color:$red;
       }
 
       > div {
